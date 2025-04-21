@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://wallpapersok.com/images/hd/lo-fi-widescreenwallpaper-0b3v88aahhx91vbb.jpg"  />
+  <img height="200" src="https://github.com/T4Seen/t4seen/blob/main/Screenshot%202025-04-21%20124320.png?raw=true"  />
 </div>
 
 ###
